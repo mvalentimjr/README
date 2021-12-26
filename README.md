@@ -29,9 +29,13 @@ Prazer, me chamo Marco.
   <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
-  ##
+  ##  
   
-<div>
-   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="www.linkedin.com/in/marco-jr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  ### Contato
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Marco%20Valentim%20Jr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-jr/)](https://www.linkedin.com/in/marco-jr/)
+
+[![Instagran Badge](https://img.shields.io/badge/-Marco%20Valentim%20Jr.-indigo?style=flat-square&logo=instagram&link=https://www.instagram.com/marcovalentim_jr/)](https://www.instagram.com/marcovalentim_jr/)
+  
+[![Gmail Badge](https://img.shields.io/badge/-marcovalentim16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcovalentim16@gmail.com)](mailto:marcovalentim16@gmail.com)
+
