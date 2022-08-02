@@ -1,12 +1,6 @@
 ### Olá!
 
 Prazer, me chamo Marco.
-
-- Microservices e Framework Spring.
-- Oracle SOA Suite 12c / JDeveloper
-- GitHub - BitBucket
-- MySQL - SQL Server
-- Kibana Elasticsearch
 <hr>
 
 
